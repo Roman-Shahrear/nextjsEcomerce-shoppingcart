@@ -28,7 +28,7 @@ const CartPage = () => {
             className="w-4 h-4 mx-2 self-center"
           />
           <p>
-            I've read and agree to the{" "}
+          I&apos;ve read and agree to the{" "}
             <a href="terms&condition" className="underline decoration-solid">
               terms and condition,
             </a>{" "}
